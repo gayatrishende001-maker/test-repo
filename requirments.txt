@@ -1,5 +1,6 @@
 pandas
 numpy
+plotly
 scikit-learn
 matplotlib
 seaborn
@@ -8,4 +9,4 @@ python-dotenv
 streamlit
 imbalance-learn
 openpyxl
-plotly
+
