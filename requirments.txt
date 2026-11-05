@@ -6,6 +6,7 @@ seaborn
 snowflake-connector-python
 python-dotenv
 streamlit
+plotly
 imbalance-learn
 openpyxl
-plotly
+
